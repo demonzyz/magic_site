@@ -18,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/magic_site/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="599">
               <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
             </state>
           </provider>
@@ -82,6 +82,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -211,7 +214,7 @@
       <workItem from="1662620781756" duration="1036000" />
       <workItem from="1662621845774" duration="11885000" />
       <workItem from="1662715391685" duration="10000" />
-      <workItem from="1663126995874" duration="54677000" />
+      <workItem from="1663126995874" duration="55449000" />
     </task>
     <task id="LOCAL-00001" summary="修改服务器运行">
       <created>1663654858725</created>
@@ -227,21 +230,49 @@
       <option name="project" value="LOCAL" />
       <updated>1663677146469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加访问host">
+      <created>1663677641434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663677641434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加访问host">
+      <created>1663677715832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663677715832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加访问host">
+      <created>1663677791601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663677791601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加访问host">
+      <created>1663678166738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663678166739</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67637000" />
+    <option name="totallyTimeSpent" value="68409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2113" y="91" width="1899" height="1200" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13703099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13703099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25515947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997281" visible="true" weight="0.25515947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002719" side_tool="true" weight="0.25515947" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289597" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3298969" />
       <window_info anchor="bottom" id="manage.py@magic_site" order="13" weight="0.3298969" />
@@ -455,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/magic_site/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="599">
           <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
         </state>
       </provider>
