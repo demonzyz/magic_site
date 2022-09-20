@@ -8,15 +8,15 @@
 =============================
 '''
 # 服务器
-# path = '/Users/daojia/project/'
-# path_testing = '/Users/daojia/testing/'
-# encode = 'utf-8'
-# file_encode = 'utf-8'
-# mq_host = '10.253.5.230'
+path = '/opt/project/pyworkspace'
+path_testing = '/opt/testing/'
+encode = 'utf-8'
+file_encode = 'utf-8'
+mq_host = '10.253.5.230'
 
 # debug
-path = 'D:/workspace/pywksp/'
-path_testing = 'D:/workspace/pywksp/'
-encode = 'gbk'
-file_encode = 'utf-8'
-mq_host = '10.253.5.244'
+# path = 'D:/workspace/pywksp/'
+# path_testing = 'D:/workspace/pywksp/'
+# encode = 'gbk'
+# file_encode = 'utf-8'
+# mq_host = '10.253.5.244'
