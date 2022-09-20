@@ -1,0 +1,91 @@
+问题关键字,问题ID,模块,创建日期,概要,安全级别,状态,创建者,优先级,经办人,影响版本,修复的版本
+JUMP-10625,48850,人物/服装穿模,25/三月/22 7:22 下午,【sp09】sp物品穿模（附图）,S2 - Major,已关闭,yangyexin@magictavern.com,P2 - High,zhangleng@magictavern.com,F36,R36(2.36.1)
+JUMP-10620,48835,活动AB分组,25/三月/22 5:34 下午,【活动AB分组】activityGroupClient的V3发的值不对,S1 - Critical,已关闭,王化帅wanghuashuai,P1 - Urgent,刘博兴liuboxing,F36,F36
+JUMP-10619,48830,loading加载,25/三月/22 4:57 下午,【loading加载】磁盘空间不足，进入游戏后Loading条走到30%卡住,S1 - Critical,已关闭,许本洋xubenyang,P1 - Urgent,lixue@magictavern.com,F36,F36
+JUMP-10615,48821,season pass,25/三月/22 3:46 下午,【sp09】活动开启优先级错误,S2 - Major,已关闭,许本洋xubenyang,P2 - High,陈好刚chenhaogang,F36,F36
+JUMP-10609,48801,关卡难度调节,25/三月/22 12:13 下午,【难度调节】当前模式为保底的自调节，levelAdjust的v2输出的不是第一二三档,S2 - Major,已关闭,高元媛gaoyuanyuan,P2 - High,刘少博liushaobo,F36,F36
+JUMP-10608,48795,season pass,25/三月/22 11:43 上午,【sp09】获得门票后，新任务卡片出现位置在屏幕中央（附图）,S1 - Critical,已关闭,yangyexin@magictavern.com,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10604,48785,节日促销,24/三月/22 10:16 下午,【伦敦促销2022】伦敦促销包的一级界面，右上角的“X”没有居中显示歪的,S2 - Major,已关闭,张健zhangjian,P2 - High,段祎辰duanyichen,F36,F36
+JUMP-10603,48784,season pass,24/三月/22 10:14 下午,【sp09】保险箱领取按钮没有点击反馈动画,S2 - Major,已关闭,许本洋xubenyang,P2 - High,段祎辰duanyichen,F36,F36
+JUMP-10592,48773,关卡难度调节,24/三月/22 8:33 下午,【track】levelAdjust的v4没有给新增的三种调节填写编号,S2 - Major,已关闭,高元媛gaoyuanyuan,P2 - High,刘少博liushaobo,F36,F36
+JUMP-10579,48755,关卡难度调节,24/三月/22 6:01 下午,【难度调节】levelAdjustConfigDownload的v1没有开始下载的输出，v2显示的配置ID有问题,S2 - Major,已关闭,高元媛gaoyuanyuan,P2 - High,刘少博liushaobo,F36,F36
+JUMP-10575,48749,关卡翻倍buff,24/三月/22 5:47 下午,【关卡奖励翻倍buff】bonus关卡，其他活动收集物的翻倍数字没有对齐,S2 - Major,已关闭,廖林liaolin,P2 - High,任贵rengui,F36,R36(2.36.1)
+JUMP-10568,48739,Deeplink,24/三月/22 5:16 下午,【QE五连胜】deeplink多了一个key，需要删,S2 - Major,已关闭,georgedudley,P2 - High,黄莘晴huangxinqing,F36,F36
+JUMP-10567,48738,关卡翻倍buff,24/三月/22 4:50 下午,【关卡奖励翻倍buff】bonus关卡，结算界面星星数量没有变化过程,S2 - Major,已关闭,廖林liaolin,P2 - High,任贵rengui,F36,R36(2.36.1)
+JUMP-10559,48702,关卡难度调节,24/三月/22 11:43 上午,【难度调节】同时满足同一个调节模式不同档，需要增加优先级,S2 - Major,已关闭,高元媛gaoyuanyuan,P1 - Urgent,刘少博liushaobo,F36,F36
+JUMP-10553,48678,LTM,23/三月/22 5:33 下午,【LTM02】主场景倒计时结束没弹出活动结束弹板,S2 - Major,已关闭,王化帅wanghuashuai,P2 - High,陈好刚chenhaogang,F36,F36
+JUMP-10551,48670,关卡难度调节,23/三月/22 4:19 下午,【难度调节】配置表不填写label，会被视为未满足标签条件,S1 - Critical,已关闭,高元媛gaoyuanyuan,P1 - Urgent,刘少博liushaobo,F36,F36
+JUMP-10544,48657,关卡难度调节,23/三月/22 2:09 下午,【难度调节】濒临流失调节，第二天下午四点刷新用户标签，用户标签不变，进入关卡触发调节，调节档位重置,S1 - Critical,已关闭,高元媛gaoyuanyuan,P1 - Urgent,刘少博liushaobo,F36,F36
+JUMP-10539,48649,season pass,23/三月/22 11:59 上午,【sp09】连续胜利任务不展示挽留弹板,S1 - Critical,已关闭,yangyexin@magictavern.com,P1 - Urgent,陈好刚chenhaogang,F36,F36
+JUMP-10537,48640,任务链,22/三月/22 9:52 下午,【任务链09】任务链背景缺失,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10534,48631,loading加载,22/三月/22 7:03 下午,【loading】首次打开游戏，游戏卡在loading开始时,S0 - Blocker,已关闭,廖林liaolin,P0 - Immediate,lixue@magictavern.com,F36,F36
+JUMP-10533,48628,关卡翻倍buff,22/三月/22 6:42 下午,【关卡奖励翻倍buff】吊牌上面倍率为两位数时，数字位置和大小还需要修改,S2 - Major,已关闭,廖林liaolin,P2 - High,zhangleng@magictavern.com,F36,F37
+JUMP-10529,48620,环球旅行,22/三月/22 5:58 下午,【收集活动】解锁新收集物没有音效,S2 - Major,已关闭,王化帅wanghuashuai,P2 - High,陈好刚chenhaogang,F36,F36
+JUMP-10524,48615,关卡翻倍buff,22/三月/22 5:15 下午,【关卡奖励翻倍buff】开启主题任务链（buff开启）和常规任务链（buff关闭），挽留弹板显示错误,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10523,48612,摩登秀,22/三月/22 4:50 下午,【摩登秀】与抢购狂潮同开时便签隐藏顺序错误,S2 - Major,已关闭,王化帅wanghuashuai,P2 - High,wangshuai,F36,F36
+JUMP-10517,48594,用户标签,22/三月/22 1:30 下午,【用户标签】安装时间为7天前，将一笔支付调至7天前，查看付费众数、最高付费额、商城付费状态、单双包促销、付费额度、付费频率，两周和一个月的标签结果数据不对,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10516,48592,关卡难度调节,22/三月/22 12:15 下午,【难度调节】未关闭难度调节服务器开关，关闭配置表开关，log输出显示服务器开关关闭,S2 - Major,已关闭,高元媛gaoyuanyuan,P2 - High,刘少博liushaobo,F36,F36
+JUMP-10513,48580,关卡翻倍buff,22/三月/22 11:45 上午,【关卡奖励翻倍buff】修改配置关闭绿钞buff，吊牌显示不正确,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10508,48567,关卡翻倍buff,21/三月/22 8:29 下午,【关卡奖励翻倍buff】track：levelEnd的V11的值错误,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10506,48565,关卡翻倍buff,21/三月/22 8:21 下午,【关卡奖励翻倍buff】track：levelEnd的V9的值错误,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10505,48564,关卡翻倍buff,21/三月/22 8:01 下午,【关卡奖励翻倍buff】track：confirmationPopup字段，同时开启主题任务链和常规任务链时，V4和V5发送的值都是主题任务链的,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10503,48562,关卡翻倍buff,21/三月/22 7:56 下午,【关卡奖励翻倍buff】bonus关卡，主显物不是bonus星星,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10494,48540,用户标签,21/三月/22 4:21 下午,【用户标签】付费场景偏好，存钱罐付费，A/B/C/D四档依次支付完成后，次数计数错误,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10492,48532,用户标签,21/三月/22 2:39 下午,【用户标签】付费众数、最高付费额、付费场景偏好、商城付费状态、单双包促销、付费额度、付费频率，在退单成功后，标签结果未刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10489,48519,关卡翻倍buff,21/三月/22 10:22 上午,【关卡奖励翻倍buff】覆盖安装报错卡死，36盖35,S0 - Blocker,已关闭,廖林liaolin,P0 - Immediate,任贵rengui,F36,F36
+JUMP-10488,48510,用户标签,18/三月/22 11:57 下午,【用户标签】商城付费状态标签，将一笔付费调到7天前，付费总额结果计数错误,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10487,48509,用户标签,18/三月/22 11:51 下午,【用户标签】付费众数标签，将一笔付费调到7天前，标签未刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10486,48508,用户标签,18/三月/22 11:17 下午,【用户标签】付费额度标签和付费频率标签，支付成功后，标签结果未刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10485,48507,关卡翻倍buff,18/三月/22 10:58 下午,【关卡奖励翻倍buff】活动下发配置后，吊牌缺失,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10481,48502,用户标签,18/三月/22 8:48 下午,【用户标签】单包促销标签的一周和一个月标签结果计数错误,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10479,48458,关卡翻倍buff,18/三月/22 6:57 下午,【关卡奖励翻倍buff】配置翻倍倍率为两位数时，吊牌主显物品会挡住倍率值,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10476,48450,用户标签,18/三月/22 4:57 下午,【用户标签】最高付费额标签，付费场景偏好标签，商城付费状态标签，弹包促销标签，在支付成功时，标签未刷新；初始化结束时，标签未刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10474,48444,用户标签,18/三月/22 4:20 下午,【用户标签】付费众数标签，在支付成功时，标签未刷新；初始化结束时，标签为刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10473,48432,用户标签,18/三月/22 3:30 下午,【用户标签】体力库存标签在接受到素人来信，好友请求，好友体力请求时，标签未刷新,S2 - Major,已关闭,魏吉超weijichao,P2 - High,任贵rengui,F36,F36
+JUMP-10465,48385,任务链,17/三月/22 11:25 下午,【任务链09】avatar场景活动结束杀进程重进游戏活动结束剧情不播放,S1 - Critical,已关闭,韩露hanlu1,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10463,48381,关卡翻倍buff,17/三月/22 7:06 下午,【关卡奖励翻倍buff】引导出现后杀进程，再次进入引导还在,S2 - Major,已关闭,廖林liaolin,P2 - High,任贵rengui,F36,F36
+JUMP-10462,48378,season pass,17/三月/22 6:54 下午,【sp09】 track 的 seasonPopupFail没有发出,S2 - Major,已关闭,王化帅wanghuashuai,P2 - High,任贵rengui,F36,F36
+JUMP-10461,48376,关卡翻倍buff,17/三月/22 6:48 下午,【关卡翻倍buff】bonus关卡第一关胜利后，bonus星星数量显示不正确,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10458,48362,season pass,17/三月/22 5:46 下午,【sp06】未开启活动时下载活动资源,S2 - Major,已关闭,王文雅wangwenya,P2 - High,zhangleng@magictavern.com,F36,F36
+JUMP-10452,48354,常规促销,17/三月/22 4:38 下午,【花园常规促销】先触发新手礼包开启，再触发单包促销开启，最后触发花园促销开启，新手礼包iocn消失,S2 - Major,已关闭,杨澜yanglan,P2 - High,王立同wanglitong,F36,F36
+JUMP-10451,48352,常规促销,17/三月/22 4:21 下午,【新手礼包】触发新手礼包开启，杀进程后新手礼包icon消失,S0 - Blocker,已关闭,杨澜yanglan,P0 - Immediate,陈好刚chenhaogang,F36,F36
+JUMP-10448,48346,红元素,17/三月/22 3:59 下午,【红元素】开启红元素后进关胜利出关回到主场景，游戏报错卡死，活动icon显示变小,S0 - Blocker,已关闭,韩露hanlu1,P0 - Immediate,陈好刚chenhaogang,F36,F36
+JUMP-10445,48338,节日促销,17/三月/22 12:16 下午,【母亲节促销2022】在F36上开启母亲节促销  无法开启 配置表不全导致报错,S0 - Blocker,已关闭,杨澜yanglan,P0 - Immediate,黄莘晴huangxinqing,F36,F36
+JUMP-10444,48337,常规促销,17/三月/22 12:10 下午,【常规促销】在F36开启常规促销只能显示icon 无法点击 报错 卡死,S0 - Blocker,已关闭,杨澜yanglan,P0 - Immediate,王立同wanglitong,F36,F36
+JUMP-10443,48336,关卡翻倍buff,17/三月/22 11:56 上午,【关卡翻倍buff】bonus关卡难度区间为5和10时对应的倍率不正确,S0 - Blocker,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10440,48318,关卡翻倍buff,16/三月/22 8:40 下午,【关卡翻倍buff】开启活动，从关卡返回主场景会报错卡死（活动icon进度增长的问题）,S0 - Blocker,已关闭,廖林liaolin,P0 - Immediate,任贵rengui,F36,F36
+JUMP-10439,48317,用户标签,16/三月/22 8:37 下午,【用户标签】关内道具总库存标签计数错误,S2 - Major,已关闭,魏吉超weijichao,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10437,48310,关卡难度调节,16/三月/22 7:02 下午,【难度调节】服务器关闭保底和濒临流失调节的子开关，实际关闭的为老用户回归,S1 - Critical,已关闭,高元媛gaoyuanyuan,P1 - Urgent,刘少博liushaobo,F36,F36
+JUMP-10436,48304,常规促销,16/三月/22 6:32 下午,【花园常规促销】点击发奖界面礼盒的光效显示错误,S2 - Major,已关闭,杨澜yanglan,P2 - High,刘洋liuyang,F36,F36
+JUMP-10433,48299,摩登秀,16/三月/22 6:08 下午,【摩登秀】挽留弹版icon白图,S2 - Major,已关闭,沈子超shenzichao,P2 - High,任贵rengui,F36,F36
+JUMP-10431,48291,season pass,16/三月/22 4:40 下午,【sp09】待领取奖励气泡点击逻辑错误,S2 - Major,已关闭,王文雅wangwenya,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10430,48289,用户标签,16/三月/22 4:33 下午,【用户标签】点炸弹与方炸弹，用户库存标签记错,S2 - Major,已关闭,魏吉超weijichao,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10429,48288,关卡翻倍buff,16/三月/22 4:29 下午,【关卡翻倍buff】气泡中缺少活动资源显示,S0 - Blocker,已关闭,廖林liaolin,P0 - Immediate,任贵rengui,F36,F36
+JUMP-10427,48280,关卡翻倍buff,16/三月/22 3:49 下午,【关卡翻倍buff】吊牌中的tip提示气泡呼出时点击吊牌和气泡应关闭气泡,S2 - Major,已关闭,廖林liaolin,P2 - High,任贵rengui,F36,F36
+JUMP-10426,48279,关卡翻倍buff,16/三月/22 3:44 下午,【关卡翻倍buff】点击吊牌时，吊牌缺少晃动动画,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10425,48278,关卡翻倍buff,16/三月/22 3:40 下午,【关卡翻倍buff】普通关非首次应不显示吊牌,S1 - Critical,已关闭,廖林liaolin,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10424,48276,season pass,16/三月/22 3:28 下午,【sp09】胜利关卡任务，关内没有挽留弹板,S1 - Critical,已关闭,王化帅wanghuashuai,P1 - Urgent,任贵rengui,F36,R36(2.36.1)
+JUMP-10423,48268,任务链,16/三月/22 2:45 下午,【任务链08】track：奖励为梳子和香水的时候taskchainReward的v3显示为空（附图）,S0 - Blocker,已关闭,yangyexin@magictavern.com,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10421,48263,任务链,16/三月/22 12:38 下午,【任务链08】track：在关内收集10个元素，胜利出关查看track，收集数显示为5（附图）,S0 - Blocker,已关闭,yangyexin@magictavern.com,P1 - Urgent,任贵rengui,F36,F36
+JUMP-10420,48261,多语言-Multilingual,16/三月/22 12:24 下午,【SP09】F分支没法测试一个物品，需要在R分支测试物品英文文本,S2 - Major,已关闭,georgedudley,P2 - High,李明远limingyuan,F36,R36(2.36.1)
+JUMP-10416,48250,任务链,15/三月/22 10:14 下午,【任务链09】完成任务链所有任务点击avatar头像报错,S2 - Major,已关闭,王超wangchao,P2 - High,任贵rengui,F36,F36
+JUMP-10412,48230,常规促销,15/三月/22 5:30 下午,"【花园常规促销】促销开启报错,卡死，界面不显示奖励",S0 - Blocker,已关闭,杨澜yanglan,P0 - Immediate,王立同wanglitong,F36,F36
+JUMP-10411,48226,多语言-Multilingual,15/三月/22 4:52 下午,【关卡翻倍buff】吊牌文本key配置错误,S2 - Major,已关闭,georgedudley,P2 - High,任贵rengui,F36,R36(2.36.1)
+JUMP-10410,48225,season pass,15/三月/22 4:45 下午,【sp09】预开启界面特效与弹板显示错位,S2 - Major,已关闭,王文雅wangwenya,P2 - High,刘洋liuyang,F36,F36
+JUMP-10407,48217,多语言-Multilingual,15/三月/22 3:49 下午,【SP09】英文全是key值，需要重新配置多语言,S2 - Major,已关闭,georgedudley,P0 - Immediate,郭滔guotao,F36,F36
+JUMP-10406,48216,season pass,15/三月/22 3:45 下午,【sp09】帮助界面卡死,S1 - Critical,已关闭,王化帅wanghuashuai,P2 - High,任贵rengui,F36,R36(2.36.1)
+JUMP-10405,48214,season pass,15/三月/22 3:38 下午,【sp09】打开奖励界面往右滑到头报错,S2 - Major,已关闭,王化帅wanghuashuai,P2 - High,李明远limingyuan,F36,R36(2.36.1)
+JUMP-10338,47834,活动资源管理优化,09/三月/22 5:37 下午,【sp08】购买强弹弹板显示白图,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10319,47764,活动资源管理优化,09/三月/22 12:08 下午,【母亲节促销2022】活动资源已就绪，icon未出现,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36
+JUMP-10299,47700,任务链,07/三月/22 9:01 下午,【任务链08】删包重装选服务开启活动转场报错卡死,S0 - Blocker,已关闭,王化帅wanghuashuai,P1 - Urgent,任贵rengui,F36,R36(2.36.1)
+JUMP-10224,47525,活动资源管理优化,01/三月/22 8:38 下午,【纸杯蛋糕单包促销】礼包开启报错,S1 - Critical,已关闭,王文雅wangwenya,P1 - Urgent,陈好刚chenhaogang,F36-task,F36
+JUMP-10223,47524,活动资源管理优化,01/三月/22 8:00 下午,【摩登秀】活动在关内到达结束时间后60分钟内胜利，结算不显示吊牌,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10218,47515,活动资源管理优化,01/三月/22 6:15 下午,【摩登秀】主动退关和失败的挽留弹板显示白图,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10212,47489,活动资源管理优化,01/三月/22 3:12 下午,【环球旅行】关内主动退出，失败，重开进关弹板未显示吊牌,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10209,47485,活动资源管理优化,01/三月/22 2:22 下午,【抢购狂潮】活动在关内到达结束时间60分钟内胜利，关尾结算未显示活动吊牌,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10197,47459,活动资源管理优化,28/二月/22 5:21 下午,【sp07】关内进行任务进度变更时，出关卡片动画停留,S2 - Major,已关闭,王文雅wangwenya,P1 - Urgent,陈好刚chenhaogang,F36-task,F36
+JUMP-10196,47451,活动资源管理优化,28/二月/22 4:45 下午,【母亲节促销2022】后台配置母亲节促销2022开启,S2 - Major,已关闭,王文雅wangwenya,P1 - Urgent,陈好刚chenhaogang,F36-task,F36
+JUMP-10195,47449,活动资源管理优化,28/二月/22 3:57 下午,【常规任务链02】解锁阶段告知奖励牌，活动弹板奖励icon白图,S2 - Major,已关闭,郝杰haojie,P2 - High,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10191,47438,活动资源管理优化,28/二月/22 12:33 下午,【红元素】活动关闭时报错,S0 - Blocker,已关闭,王文雅wangwenya,P0 - Immediate,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10190,47437,活动资源管理优化,28/二月/22 12:31 下午,【炸弹排行】活动关闭时报错卡死,S1 - Critical,已关闭,王文雅wangwenya,P0 - Immediate,陈好刚chenhaogang,F36-task,F36-task
+JUMP-10182,47418,活动资源管理优化,25/二月/22 8:07 下午,【sp07】多活动开启时，SP弹板打开关闭后ICON位置变化,S2 - Major,已关闭,王文雅wangwenya,P2 - High,陈好刚chenhaogang,F36-task,F36-task
